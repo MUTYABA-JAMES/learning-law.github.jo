@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+#header{
+    min-height: 30vh;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("images/4328795 (1).jpg");
+    position:;
+    top: 0px;
+}
+#container{
+    width:100%;
+    height: 100%;
+    background-repeat: repeat;
+    
+}
+#header img{
+    position: absolute;
+    top:0px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#search{width: max-content;
+    border-radius: 60px;
+    background-color:rgb(177, 95, 62);
+    margin-top:0px;
+    margin-left: 84%;
+}
+#search input{
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: lawngreen;
+    margin-left: 13px;
+    outline: none;
+    border: none;
+    background: transparent;
+
+}
+#button{
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+#imag{
+    margin-right: 50%;
+}
+#lisx{
+    color: azure;
+    display:flex;
+    list-style: none;
+    padding: 5%;  
+    justify-content: space-between;
+    font-style: none;
+}
+#lisx{
+    color: #fff;
+    text-decoration: none;}
+
+#links a{
+    text-decoration: none;
+    background-color: beige;
+    border:#fff;
+    border-radius: 12px;
+}
+#lisx button{
+    color:transparent;
+}    
+#vid{
+    padding-top: 2px;
+    height: 50%;
+    width: 100%;
+}
+img{
+    width: 40px;
+}
+#meg{
+    display:flex;
+}
+#h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
